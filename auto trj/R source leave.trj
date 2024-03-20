@@ -1,0 +1,21 @@
+[Step 0]
+action = "start"
+X = 819.000000
+Y = 317.000000
+Angle = 0.000000
+
+[Step 1]
+action = "move"
+FWD = -1.000000
+STR = 0.174643
+distance = 52.152143
+rotation = 0.000000
+side = FALSE
+
+[Step 2]
+action = "move"
+FWD = -1.000000
+STR = 0.689923
+distance = 98.746453
+rotation = 0.000000
+side = FALSE

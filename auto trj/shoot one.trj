@@ -7,9 +7,9 @@ Angle = 0.000000
 [Step 1]
 action = "move"
 FWD = -1.000000
-STR = 0.057358
-distance = 39.170283
-rotation = 215.000000
+STR = 0.058506
+distance = 38.404782
+rotation = -160.000000
 side = TRUE
 
 [Step 2]
