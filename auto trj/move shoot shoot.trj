@@ -1,0 +1,44 @@
+[Step 0]
+action = "start"
+X = 69.000000
+Y = 141.000000
+Angle = 0.000000
+
+[Step 1]
+action = "move"
+FWD = -1.000000
+STR = -0.000000
+distance = 16.102473
+rotation = 0.000000
+side = TRUE
+
+[Step 2]
+action = "move"
+FWD = -1.000000
+STR = -0.034825
+distance = 42.965959
+rotation = 180.000000
+side = TRUE
+
+[Step 3]
+action = "aim"
+
+[Step 4]
+action = "shoot"
+
+[Step 5]
+action = "move"
+FWD = -1.000000
+STR = 0.0
+distance = 31.473706
+rotation = 0.000000
+side = TRUE
+
+[Step 6]
+action = "intake"
+
+[Step 7]
+action = "aim"
+
+[Step 8]
+action = "shoot"
