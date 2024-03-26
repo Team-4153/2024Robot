@@ -16,9 +16,10 @@ side = TRUE
 action = "move"
 FWD = -1.000000
 STR = -0.034825
-distance = 42.965959
+distance = 32.965959
 rotation = 180.000000
 side = TRUE
+
 
 [Step 3]
 action = "aim"
