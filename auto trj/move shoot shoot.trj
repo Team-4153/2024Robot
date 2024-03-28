@@ -6,20 +6,19 @@ Angle = 0.000000
 
 [Step 1]
 action = "move"
-FWD = -1.000000
+FWD = -0.500000
 STR = -0.000000
-distance = 16.102473
+distance = 8.0
 rotation = 0.000000
 side = TRUE
 
 [Step 2]
 action = "move"
-FWD = -1.000000
-STR = -0.034825
-distance = 32.965959
+FWD = -0.300000
+STR = 0.0
+distance = 6.0
 rotation = 180.000000
 side = TRUE
-
 
 [Step 3]
 action = "aim"
@@ -29,9 +28,9 @@ action = "shoot"
 
 [Step 5]
 action = "move"
-FWD = -1.000000
+FWD = -0.400000
 STR = 0.0
-distance = 31.473706
+distance = 40.0
 rotation = 0.000000
 side = TRUE
 
