@@ -1,0 +1,11 @@
+[Step 0]
+action = "start"
+X = 69.000000
+Y = 141.000000
+Angle = 0.000000
+
+[Step 1]
+action = "aim"
+
+[Step 2]
+action = "shoot"

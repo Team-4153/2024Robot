@@ -25,3 +25,11 @@ action = "aim"
 
 [Step 4]
 action = "shoot"
+
+[Step 5]
+action = "move"
+FWD = -0.500000
+STR = -0.000000
+distance = 100.0
+rotation = 0.000000
+side = TRUE

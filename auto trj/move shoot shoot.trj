@@ -30,7 +30,7 @@ action = "shoot"
 action = "move"
 FWD = -0.400000
 STR = 0.0
-distance = 40.0
+distance = 45.0
 rotation = 0.000000
 side = TRUE
 
