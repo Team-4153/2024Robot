@@ -1,15 +1,15 @@
 [Step 0]
 action = "start"
-X = 50.000000
-Y = 219.000000
+X = 69.000000
+Y = 141.000000
 Angle = 0.000000
 
 [Step 1]
 action = "move"
-FWD = -1.000000
-STR = 0.058506
-distance = 38.404782
-rotation = -160.000000
+FWD = -0.500000
+STR = -0.000000
+distance = 8.0
+rotation = 0.000000
 side = TRUE
 
 [Step 2]
